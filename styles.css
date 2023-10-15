@@ -27,7 +27,7 @@ body {
     width: 100%;
     height: 100%;
     transform-style: preserve-3d;
-    animation: animate 6s linear infinite;
+    animation: animate 4s linear infinite;
     transform: rotateX(-20deg) rotateY(25deg);
     
 }
@@ -173,7 +173,7 @@ body {
     width: 100%;
     height: 100%;
     transform-style: preserve-3d;
-    animation: animate3 6s linear infinite;
+    animation: animate3 3s linear infinite;
     /* changes the size  */
     scale: 0.4;
 
