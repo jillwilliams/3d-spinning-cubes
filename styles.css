@@ -36,6 +36,9 @@ body {
     0% {
         transform: rotateX(-20deg) rotateY(360deg);
     }
+    50% {
+        transform: rotateX(-20deg) rotateY(180deg);
+    }
     100% {
         transform: rotateX(-20deg) rotateY(0deg);
     }
@@ -111,6 +114,9 @@ body {
     0% {
         transform: rotateX(-20deg) rotateY(0deg);
     }
+    50% {
+        transform: rotateX(-20deg) rotateY(180deg);
+    }
     100% {
         transform: rotateX(-20deg) rotateY(360deg);
     }
@@ -182,6 +188,9 @@ body {
 @keyframes animate3 {
     0% {
         transform: rotateX(-20deg) rotateY(360deg);
+    }
+    50% {
+        transform: rotateX(-20deg) rotateY(180deg);
     }
     100% {
         transform: rotateX(-20deg) rotateY(0deg);
